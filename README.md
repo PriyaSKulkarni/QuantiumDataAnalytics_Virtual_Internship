@@ -6,7 +6,7 @@ Welcome to the Quantium Data Analytics Virtual Internship repository. This inter
 ## Project Structure
 1. **Data Files:**
    - `QVI_purchase_behaviour.csv`: Contains customer purchase behavior data.
-   - `QVI_transaction_data.xlsx`: Includes transactional data.
+   - `QVI_transaction_data.xlsx`: Includes transactional data.  
    
 2. **Scripts:**
    - `Task_1_Data_Cleaning.ipynb`: Jupyter notebook for cleaning and preparing data.
