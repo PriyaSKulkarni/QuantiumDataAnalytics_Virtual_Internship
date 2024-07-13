@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Quantium Data Analytics Virtual Internship repository. This internship provides hands-on experience in data analysis within the retail sector, focusing on transactional and customer data to derive insights and make data-driven recommendations.
 
-## Project Structure
+## Project Structure  
 1. **Data Files:**
    - `QVI_purchase_behaviour.csv`: Contains customer purchase behavior data.
    - `QVI_transaction_data.xlsx`: Includes transactional data.  
